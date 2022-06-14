@@ -1,7 +1,7 @@
 # Modelling-of-3D-chromatin-structure
 Only python 2.7 is supported now.
 
-https://ww2.mathworks.cn/matlabcentral/fileexchange/28529-3d-peano-space-filling-curve：  this program generates a 3D Peano space filling curve as a N X 3 matrix.
+https://ww2.mathworks.cn/matlabcentral/fileexchange/28529-3d-peano-space-filling-curve ：this program generates a 3D Peano space filling curve as a N X 3 matrix.
 
 s1.py： this program generates a space curve (SAW curve) as a N X 3 matrix.
 
