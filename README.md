@@ -11,4 +11,6 @@ energytwopoint_LJpotential_spa_inclu_energyk1.py, rejectcollision_endpoint.py, r
 
 Cite As
 
+```
 Modelling of 3D chromatin structure, Q.Y., Z.Z.. (2022).
+```
