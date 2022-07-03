@@ -12,5 +12,5 @@ energytwopoint_LJpotential_spa_inclu_energyk1.py, rejectcollision_endpoint.py, r
 Please consider citing these works if you find this repo is useful for your projects.
 
 ```
-Yang, Qingzhu, and Zhihua Zhang. "Lattice Simulation-based diffusion modelling of 3D chromatin structure." Computational and Structural Biotechnology Journal (2022).
+Qingzhu Yang, and Zhihua Zhang. "Lattice Simulation-based diffusion modelling of 3D chromatin structure." Computational and Structural Biotechnology Journal (2022).
 ```
