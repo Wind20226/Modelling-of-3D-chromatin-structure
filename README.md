@@ -12,14 +12,5 @@ energytwopoint_LJpotential_spa_inclu_energyk1.py, rejectcollision_endpoint.py, r
 Please consider citing these works if you find this repo is useful for your projects.
 
 ```
-@article{YANG20223351,
-title = {Lattice simulation-based diffusion modelling of 3D chromatin structure},
-journal = {Computational and Structural Biotechnology Journal},
-volume = {20},
-pages = {3351-3358},
-year = {2022},
-issn = {2001-0370},
-doi = {https://doi.org/10.1016/j.csbj.2022.06.057},
-url = {https://www.sciencedirect.com/science/article/pii/S2001037022002719},
-author = {Qingzhu Yang and Zhihua Zhang}
+Yang, Qingzhu, and Zhihua Zhang. "Lattice Simulation-based diffusion modelling of 3D chromatin structure." Computational and Structural Biotechnology Journal (2022).
 ```
