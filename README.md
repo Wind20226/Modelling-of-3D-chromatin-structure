@@ -9,7 +9,7 @@ r1.py:  the polymer diffusion program.
 
 energytwopoint_LJpotential_spa_inclu_energyk1.py, rejectcollision_endpoint.py, rejectcollision_midddlepoint.py, rejectcollision_twopoints.py, rotatetwo.py: the programs needed for r1.py. 
 
-Please citing this work if you find this repo is useful for your projects.
+Please cite this work if you find this repo is useful for your projects.
 
 ```
 Qingzhu Yang, and Zhihua Zhang. "Lattice Simulation-based diffusion modelling of 3D chromatin structure." Computational and Structural Biotechnology Journal (2022).
